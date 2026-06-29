@@ -40,4 +40,4 @@ def verify_integrity(file1, file2):
 # specific file, acting as a tester
 if __name__ == "__main__":
     print("SHA Hash of File is: ", hash_file("C:/Users/colin/OneDrive/Desktop/Repos/cryptography-practice/venv/sample files/sample.txt"))
-    
+    # print(verify_integrity( I don't have any files to test on ))
